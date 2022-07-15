@@ -12,8 +12,8 @@
     "web-vitals": "^2.1.4"
   },
   "scripts": {
-    // "start": "PORT=3006 react-scripts start",
-    "start": "PORT=3006 HTTPS=true SSL_CRT_FILE=/etc/letsencrypt/live/rinelb.co.za/fullchain.pem SSL_KEY_FILE=/etc/letsencrypt/live/rinelb.co.za/privkey.pem  react-scripts start",
+    "start": "PORT=3006 react-scripts start",
+    "dummy": "PORT=3006 HTTPS=true SSL_CRT_FILE=/etc/letsencrypt/live/rinelb.co.za/fullchain.pem SSL_KEY_FILE=/etc/letsencrypt/live/rinelb.co.za/privkey.pem  react-scripts start",
     
     "build": "react-scripts build",
     "test": "react-scripts test",
@@ -38,3 +38,8 @@
     ]
   }
 }
+
+
+
+AOLAfrica!website1
+AOLAfrica!website1
